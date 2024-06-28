@@ -24,7 +24,7 @@ return [
     */
 
     'company' => [
-        'version' => '1.0 - Beta!',
+        'version' => '1.0',
         'name' => 'Meetroom',
         'website' => 'https://arinsuga.com/',
         'address' => [
